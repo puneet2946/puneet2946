@@ -35,7 +35,6 @@
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rakshityadav1868&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=rakshityadav1868&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshityadav1868&theme=dark&hide_border=false&layout=compact)
 
@@ -49,8 +48,7 @@
 [![](https://visitcount.itsvg.in/api?id=rakshityadav1868&icon=3&color=6)](https://visitcount.itsvg.in)
 
 <!--
-**rakshityadav1868/rakshityadav1868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
