@@ -35,19 +35,6 @@
 
 ## Featured Project
 
-### 🎬 CineSearch
-
-Modern movie & TV explorer built using HTML, CSS, and JavaScript.
-
-#### Features
-
-- Responsive UI
-- Dynamic search experience
-- Clean modern design
-- Optimized frontend structure
-
-<br>
-
 ---
 
 ## GitHub Stats
