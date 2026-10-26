@@ -19,9 +19,9 @@ Building things for the web. Exploring the possibilities of AI.
   <img src="https://img.shields.io/badge/Mindset-Always%20Building-111827?style=flat-square" alt="Mindset"/>
 </p>
 
-<a href="https://github.com/puneet2946">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=puneet2946&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
-</a>
+<div align="center">
+  <img src="/Users/puneetkumar/Downloads/github-user-contribution.svg" alt="Snake animation" />
+</div>
 
 </div>
 
@@ -29,7 +29,7 @@ Building things for the web. Exploring the possibilities of AI.
 
 ## `01` — About Me
 
-I'm Puneet, a Computer Science student specializing in AI/ML at
+I'm Puneet, a Computer Science student specialising in AI/ML at
 **Newton School of Technology, Rishihood University**.
 
 I'm interested in building useful products that combine thoughtful
@@ -78,9 +78,9 @@ user experiences, solid engineering, and intelligent systems.
 ### Pathfinder — AI Career Navigator
 
 An AI-powered career guidance application that helps users navigate their
-career paths through personalized roadmaps and actionable recommendations.
+career paths through personalised roadmaps and actionable recommendations.
 
-- Personalized career roadmaps
+- Personalised career roadmaps
 - Skill-gap analysis and recruiter expectations
 - Project recommendations and internship planning
 - AI-powered guidance using Google Gemini
