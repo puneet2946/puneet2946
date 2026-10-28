@@ -20,7 +20,11 @@ Building things for the web. Exploring the possibilities of AI.
 </p>
 
 <div align="center">
-  <img src="/Users/puneetkumar/Downloads/github-user-contribution.svg" alt="Snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/puneet2946/puneet2946/main/assets/github-user-contribution.svg"
+    alt="Snake animation"
+    width="100%"
+  />
 </div>
 
 </div>
