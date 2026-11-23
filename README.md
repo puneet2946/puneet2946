@@ -3,6 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="puneet2946's GitHub profile" src="dark_mode.svg" />
 </picture>
+
 <div align="center">
 
 # P U N E E T
@@ -31,13 +32,11 @@ Building things for the web. Exploring the possibilities of AI.
 
 ---
 
-## `01` — About Me
+## `01` - About Me
 
-I'm Puneet, a Computer Science student specialising in AI/ML at
-**Newton School of Technology, Rishihood University**.
+I'm Puneet, a Computer Science student specialising in AI/ML at **Newton School of Technology, Rishihood University**.
 
-I'm interested in building useful products that combine thoughtful
-user experiences, solid engineering, and intelligent systems.
+I'm interested in building useful products that combine thoughtful user experiences, solid engineering, and intelligent systems.
 
 - Currently exploring full-stack development and AI-powered applications.
 - Working with React, TypeScript, JavaScript, and Python.
@@ -48,41 +47,40 @@ user experiences, solid engineering, and intelligent systems.
 
 ---
 
-## `02` — Tech Stack
+## `02` - Tech Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" alt="HTML, CSS, JavaScript, TypeScript, Python"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" alt="HTML, CSS, JavaScript, TypeScript, Python" />
 </p>
 
 ### Frontend & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite" alt="React and Vite"/>
+  <img src="https://skillicons.dev/icons?i=react,vite" alt="React and Vite" />
 </p>
 
 ### Backend & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" alt="Node.js, Express, Firebase"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-AI%20Integration-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" alt="Node.js, Express, Firebase" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-AI%20Integration-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
 </p>
 
 ### Tools & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Git, GitHub, VS Code, Vercel"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Git, GitHub, VS Code, Vercel" />
 </p>
 
 ---
 
-## `03` — Selected Projects
+## `03` - Selected Projects
 
-### Pathfinder — AI Career Navigator
+### Pathfinder - AI Career Navigator
 
-An AI-powered career guidance application that helps users navigate their
-career paths through personalised roadmaps and actionable recommendations.
+An AI-powered career guidance application that helps users navigate their career paths through personalised roadmaps and actionable recommendations.
 
 - Personalised career roadmaps
 - Skill-gap analysis and recruiter expectations
@@ -92,13 +90,12 @@ career paths through personalised roadmaps and actionable recommendations.
 **Stack:** React · TypeScript · Vite · Google Gemini API · Vercel
 
 <a href="https://github.com/puneet2946">
-  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
 </a>
 
-### CineSearch — Movie & TV Explorer
+### CineSearch - Movie & TV Explorer
 
-A web application for searching and exploring movies and television shows
-through a clean, responsive interface.
+A web application for searching and exploring movies and television shows through a clean, responsive interface.
 
 - Search and explore entertainment content
 - Responsive user interface
@@ -108,7 +105,7 @@ through a clean, responsive interface.
 
 ---
 
-## `04` — GitHub Statistics
+## `04` - GitHub Statistics
 
 <div align="center">
 
@@ -124,7 +121,7 @@ through a clean, responsive interface.
 
 ---
 
-## `05` — Currently Working On
+## `05` - Currently Working On
 
 - Strengthening full-stack development fundamentals.
 - Improving problem-solving skills through DSA.
@@ -134,24 +131,21 @@ through a clean, responsive interface.
 
 ---
 
-## `06` — Let's Connect
+## `06` - Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/puneet2946">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <br/><br/>
 
-<i>Consistency &gt; Perfection.</i>
-
-<br/>
-
+<i>Consistency > Perfection.</i><br/>
 <sub>Learning continuously. Building intentionally.</sub>
 
 </div>
